@@ -1,0 +1,100 @@
+AI for vis
+数据做预处理，可以用AI的方法，如k-means
+不是解决vis的问题，而是数据本身的问题
+
+特别难以自动化
+需要领域知识
+
+自动生成可视化
+给我data，task，就可以自动生成可视化系统
+
+解决子问题：
+1.data
+2.task（如找极值）
+3.chart
+4.effectiveness（score）
+
+eg：中国降雨量从1月到12月哪月的降雨量最大
+分解成两部分：
+1.data attribute
+2.task
+
+实现思路：
+理解自然语言：
+1.把一句话结构化
+2.training dataset
+
+把task生成尽量多的，不同方式形容的语言
+
+生成语料库
+1.从现有的task里找（从网上找，如title，caption）
+2.让别人去生成（众包平台crowdsourcing），设计实验流程，给参与者一定报酬（这个做一个系统）
+3.para generation 同意话生成（质量不能得到保证）
+
+prof reading
+coder worker
+
+原始的还是要到paper里面找——seed种子
+
+task 至少一千句，高质量不重复的话
+语义semantic 角色role labeling（一个大类，可视化这是一个小类）
+识别出 data attribute，task
+part of speech 给我一句话，告诉你那个词是动词、形容词、名字等
+
+nlp：
+
+成果是语料库（生成训练集）
+pair： 句子，label（json object）
+
+
+10个task
+
+五年内的目标
+
+验证的机制：validation model
+data 
+
+1.生成句子（语言的多样性）
+2.打标签
+
+
+技能很弱，所以要尽可能简单
+作弊：设置一套防作弊的机制
+
+可以做不同套的系统
+前端
+后端：
+模型：鉴别是否重复
+pipeline
+
+milestone：
+1月底： 要做一个初版的系统（跑通）
+2月15号：确定一套系统
+3月底：deadline
+
+如何评估dataset
+1.对数据集统计（统计分析）：如整句话的长度
+2.10个模型，testing dataset，
+号召nlp领域的人来做可视化
+
+related work
+1.可视化领域的数据集
+1.1 图表pcv领域的training
+1.2 dataset的数据集 提供的一百万个table
+
+2.我们要生成同意话的方法（nlp的方法）
+3.semantic role labeling（自动）
+
+taskID 1—— jobID * 
+workerID
+
+
+
+
+
+敲击键盘
+花的时间
+重复（以某个Metric）
+
+思路、方法上的创新
+意义大不大，应用广不广

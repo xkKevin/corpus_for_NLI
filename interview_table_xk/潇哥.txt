@@ -1,0 +1,22 @@
+xx1
+student name, age, Time to school, neighboors, social network, social App
+
+
+xx2
+country, male num, female num
+
+
+xx3£ºtop-cities
+city, area
+
+
+xx4
+products, categories, horsepower, behavior
+
+
+xx5
+player name, date, game, shooting attempts, tactic, goals
+
+
+xx6
+team, game, result, pitch size

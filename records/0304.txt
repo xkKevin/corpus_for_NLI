@@ -1,0 +1,8 @@
+模型系统
+https://colab.research.google.com/
+https://docs.fast.ai/
+
+识别column name
+https://visflow.org/
+https://visflow.org/flowsense/
+https://arxiv.org/abs/1908.00681

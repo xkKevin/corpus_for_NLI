@@ -1,0 +1,109 @@
+What are the matches and the results of each player?
+What is the playing style of a player?
+What kind of strokes is worth adjusting most?
+What is the effect of an adjustment strategy?
+How does a tactical adjustment influence the strokes and tactics?
+Examine the relationship between the adjusted stroke and the former strokes.
+How do game situations evolve over time?
+What is the frequency of formation pairs?
+What is the statistical difference between two teams formations?
+How do formations of a team change over time?
+What is the effect of a formation change?
+What is the reason for a formation change?
+How does a player perform in particular formations?
+How do the scores evolve over time through a match?
+How can analysts navigate into key rallies on the match timeline?
+How can analysts explore the transformations of strokes within rallies?
+How do stroke attributes intra-relate within a stroke?
+How do stroke attributes inter-relate between adjacent strokes?
+How do the timeline and statistics relate to each other?
+What are the frequent patterns of tactics?
+What are the scoring rates of tactics?
+Depict the win-lose situation of the entire season.
+Identify the change in score difference.
+Identify how an intensive period or a turning point proceeds.
+Evaluate the contribution of a player.
+Select specific plays or players.
+Examine the state of the players and ball at the sampled timestamps.
+Examine a hitter's batting average in day versus night games
+Filtering across gameplay data by allowing users to select events based on a variety of criteria.
+Who is the  most effective shooter in the NBA in 2010-2011 season?
+Describe the distribution of phenomena in space.
+Compare spatial relationships amongst various phenomena.
+who is the best shooter in the NBA?
+What criteria separate good shooters from bad shooters?
+The computation of new player statistics, such as route efficiency or lead distance.
+Capture all actions performed on the playing field.
+Filter the location data merging the game events.
+The system performs a substantial amount of error checking.
+Recognize different moments that occurred during the progress of the match, such as sequences of shots made by any team.
+Show the point difference (default view, red and blue tones) or to depict the type of play.
+Filtering options can be applied both for teams and players.
+How players move in the baseball field throughout time.
+The ordering of events by time.
+Highlight relevant events in the play.
+Find the exact position of a player.
+Analyse the relationship among the actions of the players through time
+Plot the average position of players.
+Specify time intervals of particular interest.
+Compares the actual positions of the players on the field to the ones they were supposed to assume in the theoretical position.
+When the team should play more on the defense side instead of making scoring goals a priority?
+Mapping categorical variables to colors and dividing by categories into separate views.
+Data can be filtered in the lower half of the system through a series of interactions.
+Highlight shot location and secondarily the shot/goal, home/away.
+Highlight patterns of shot location density.
+Visualizes the distance of shots.
+Identify player patterns that need to be modified.
+Identify potential shots a player needs to work on.
+Present point information, such as service information, good or bad shots, and point outcome types.
+Present the point outcomes within the context of the score where they occur.
+Identify points in a match that may lead to insights.
+Show the player rounds distribution.
+Show the action type in his participant round.
+Show a player's action relations (cooperation or confrontation)
+Show the match score, team status.
+Show changes in scores.
+Show the length of each phrase.
+Show the technical details of the selected tactics.
+Show how the tactics of both fencers are used in the entire bout.
+Conduct exploratory pattern discovery and result communication.
+Providing at-a-glance stats information.
+The table can be sorted by clicking the header for each statistic type.
+Show all the home teams shots (and type) over time.
+Detect and quantify these pressure relationships based on the relative positions of the players, the ball, and the defended goal. 
+See the pressure distribution over space and time.
+Selection of potentially interesting game.
+Show the matches results (win, loss, draw), amount of goals of each team, and the difference of goals pro the winner team.
+Those names can be sorted by varied criteria selected by the user as for an example descendent order of points and amount of goals among others.
+Show the relationship between the attributes values used as sorting criteria
+Show the evolution of the behavior of both teams.
+Reveal global patterns in the match.
+Individual and team evolution for different directions.
+Visualize the evolution of the tactical formation
+Show the trajectories of players in given parts of the match and regions of the pitch
+Comparative analysis of player's trajectories to identify marking patterns.
+Filter the data to narrow the analysis in main events.
+Review an individual goalkeeper on a given team for a specific game.
+The comparison of two goalkeepers of different teams for same or different games.
+Show different goalkeeper-specific characteristics.
+Review a given player on a given team.
+How many times a player fails with either their feet or torso for a respective category. 
+Outliers need to be reflected in the abstraction.
+Computing the abstracted visualization.
+Searching a specific movement situation that happened at a specific time.
+Relate a  set of similar movements.
+Identify how many attacks have been performed via the left hand.
+What is the relationship between the actions and scores?
+What did each player actually do?
+Where did this action take place?
+What was the action's relation to well-defined landmarks?
+Discover the shot distributions of players
+Compare player shot distributions against the league, and against their position.
+Compare player shooting performances against each opponent team.
+Discover the shot distributions of the entire league, of each position, and of each team.
+Where was a player in the court at a given moment?
+How this position relates to the rest of the players?
+Filter out events.
+Compute and represent areas and distances.
+Compute and represent kinematic variables.
+Compare players and teams.

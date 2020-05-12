@@ -1,0 +1,22 @@
+ssh -c aes256-gcm@openssh.com xiongkai@python.zjvis.org -p 5522
+15-18
+https://github.com/salesforce/WikiSQL
+https://paperswithcode.com/paper/seq2sql-generating-structured-queries-from
+ python evaluate.py data/dev.jsonl data/dev.db test/example.pred.dev.jsonl
+
+6,417,127
+10, 492,103
+14,419,120
+16, 512,101
+19,396,101
+28,117,46£¨189,57£©
+
+https://github.com/jkkummerfeld/text2sql-data/
+https://github.com/taoyds/typesql
+
+I am a first-year master student in the CAD Lab of Zhejiang University. We are studying a corpus of visualization-oriented NLI based on task classification. I want to create an application on a Text-to-SQL Task. Know your TypeSQL: Knowledge-based type perception neural text to SQL generation papers, the TypeSQL + TC method proposed in the test set is 80% to 90% accurate, so I want to use your trained model to apply to our data set.
+
+Is it convenient to share a pre-trained TypeSQL model?
+
+Thank you very much and wish you a happy life and keep learning!
+

@@ -1,0 +1,153 @@
+intuitively classify patterns and find promising ones on the basis of their spatial structures .
+obtain a clear summary of each propagation pattern in terms of their spatial and temporal .
+establish how the pollutants are transported between districts in a specific pattern .
+find the similarities or differences between patterns .
+how frequently did the relevant pollution events occur ?
+did the pollution become severe over time ?
+displaying the raw samples with numeric readings .
+present spatial rankings.
+comprehend the spatial distribution of the alternatives .
+in which area do the alternatives tend to have higher rankings ?
+how  are  the  spatial rankings computed from the criteria ?
+are two criteria spatially correlated ?
+which area is dominated by a criterion ?
+unfold  the  cause  of  spatial  rankings .
+how can numerous alternatives and their rankings be preceived spatially ?
+support flexible spatial filtering .
+enable comparative analysis of spatial rankings .
+sort the alternatives based on the rankings generated from one or more criteria .
+compute the reachability for each activity .
+generate a list of candidates that match the specified constraints .
+explore  computed  reachability  visually .
+refine reachability constraints iteratively .
+filter candidates 
+rank candidates
+classify the ways to visually integrate physical and abstract data into three categories
+choose the best view under certain circumstances .
+consider visual geometry and spatial distribution of the 2D and 3D visualizations .
+how are the target trajectories distributed across the city ?
+what is the difference between weekday and weekend ?
+how many billboards should be placed in the target areas ?
+where are the optimal locations ?
+access the detailed information of a location, such as its cost, neighboring environment, traffic volume, speed, and OD
+how good is a billboard location ?
+know the performance indicators of the selected solution such as reach, traffic volume, traffic speed, and cost .
+provide the geospatial distribution of billboards
+how effective is a billboard solution
+what are the differences and similarities among multiple candidate solutions ?
+how many groups of candidate solutions exist ?
+how these groups differentiate from each other ?
+what is the ranking of multiple solutions ?
+which ones are optimal ?
+display the latent patterns on multiple dimensions .
+analyzing the similarities and differences across different data partitions / clusters .
+visualize the deviation of the raw data from the extracted patterns .
+support steerable data partitioning / clustering .
+support tracking and provenance of partition history .
+extract all relevant events and see the locations and times of their occurrence .
+see the times of event occurrence at this location and the spatial patterns of other events .
+for a chosen target location, find other locations where events frequently occur simultaneously or with a specific time difference to the events at the target location .
+for a chosen pair of locations, see the cases when the specified temporal relationships between events occurrences at these locations do and do not take place .
+find co-occurrence patterns involving the same or opposite kinds of events for different target locations and temporal relations .
+see the overall distribution of the extracted relevant events over space and time .
+impute missing data in different locations under a unified framework .
+discover the area with high population density or mobility .
+how can the analyst disclose the correlation between social relations and the physical movements of the crowd ?
+how to enable the analyst to be better informed of the flow patterns among cell towers in a city, including the flow volume and the temporal patterns ?
+explore and analyze traffic patterns from historical data over different periods of time and in different parts of the city .
+exploring how traffic speeds vary throughout a city during different times over different days .
+studying the flow of traffic along various streets of the city .
+compute plausible routes for trips .
+identifying paths whose lengths are closest to the actual distance of a given trip .
+observe the  speed distribution of the traffic .
+observe the traffic speeds .
+computing flow lines depending on the aspect of the traffic the user wants to visualize .
+filter the flow lines based on average speed of them .
+get a global view of the general trend in Manhattan's traffic on Fridays .
+compute the traffic function .
+identifying the variation in speeds between north-bound and south-bound traffic between Upper Manhattan and Lower Manhattan .
+how the speeds vary, and how they effect the flow .
+compute the importance of city roads at user desired spatial and temporal scales .
+users can easily identify interesting patterns .
+select and compare multiple regions of interest .
+compute the graph centralities .
+understand how traffic condition changes .
+how these traffic jams are related, and how they propagate from one location to another .
+show all critical information of the traffic jams, including location, time, propagation path, size of the propagation, and the road speed .
+analyze the traffic jam propagation among different road segments, and to compare different propagations .
+filter traffic jams according to spatial, temporal properties, and size of propagation .
+real-time predictive analysis of near-future congestion conditions .
+compute the severity of congestion on road
+looks at the  daily-aggregated congestion conditions across the city .
+find hourly congestion patterns .
+check congestion conditions of each stream by using the stream filtering option .
+find a stippled representation of the distribution of 2D data values .
+establish a relation between the data that falls into the region of a stipple .
+the extraction of contours from the mapped data .
+distinguish density changes locally .
+classify the OD flows into different communities .
+perceive the semantic interactions of local flows .
+calculate the effectiveness of different sampling strategies .
+explore patterns of human mobility .
+show the account of flows located in the focus area .
+present the average magnitude of the flows .
+filter out flows with smaller magnitude values or fewer interactions .
+construct a compact correlation between the vectorized representations and corresponding OD flows
+explore the geographical distribution of OD flows with close semantic relationship .
+inspect individual data points within clusters .
+splitting clusters characterized by mild features into more significant subclusters .
+what features (dimensions) of the data points are important in determining a given clustering instance ?
+how different choices of features or distance measures might affect the clustering ?
+show a single clustering instance .
+show the feature distribution .
+inspect the average feature value of each cluster .
+clusters are ordered from largest to smallest and display their member number and color right beneath each column .
+the Data Table view supports automatic outlier detection .
+the Data Table view supports selection .
+the Data Table view supports filtering .
+how single data points and feature distributions affect the current clustering ?
+how to visually present the detailed attributes of taxi OD trips ?
+how to visualize the relationship between each pair of urban areas or urban functions ?
+explore the human mobility and activity patterns .
+analyze the spatial distribution of Shenzhen city .
+visualize the traffic volume changing over time
+identify areas of different urban functions .
+compute wavelets coefficients in each node of the Cartesian product graph .
+classify  nodes in two adjacent time .
+calculate free flow speed for each segment and then compute propagation probabilities among road segments .
+study the empirical vehicle speed distribution of different road segments .
+use the maximum of the rest observations to represent the free flow speed in a road .
+are there topological network structures associated with trade that serve as potential indicators of future instability ?
+visualize patterns detected from the networks .
+visualize the possible relationships between the network and local instability .
+employ time series anomaly detection method to find potential points of interest in the trade event time series .
+extract and present reachable destinations B
+present clear pathways/routes from A to B .
+examine and compare the travel time and travel efficiency of the routes from A to B .
+examine the mobility-related factors and their round-the-clock pattern .
+use the set of minima and maxima to represent features (events) of the given data
+compute the split tree of the scalar function f .
+select events of interest to search for similar events .
+capture the range of an event group .
+get the number of events of the group that happen per time unit .
+illustrates an event group distribution view consisting of 4event groups .
+filter event groups based on the number of events constitution that group .
+sort mobility by the value of a descriptor or the size .
+filter and display the necessary patterns .
+represent the flow of mobility over time .
+display the corresponding information of a selected mobility pattern .
+characterize the statistical distribution of each dimension of the selected mobility pattern .
+indicate the interval of the overview .
+what are the global patterns of the location ?
+what is the mutual influence between urban location and its contextual trajectory ?
+what is the relationship among locations ?
+show the geographical distribution of locations cooperating with the features .
+discover accessible urban regions from multiple starting locations at different time periods .
+study the minimum and maximum access times to urban structures inside these regions .
+what is the total length of the reachable street segments ?
+how many education places are there in the biggest region ?
+preserve the  Data  distribution .
+presents an overview of the data from each dataset .
+filters items with given conditions .
+identify where traffic jams are most likely to occur .
+find a specific person from the input data .

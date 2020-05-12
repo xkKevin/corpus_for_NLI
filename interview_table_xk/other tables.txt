@@ -1,0 +1,20 @@
+Google Books Dataset
+https://www.kaggle.com/bilalyussef/google-books-dataset
+
+Top 50 Spotify Songs - 2019
+https://www.kaggle.com/leonardopena/top50spotify2019
+
+Google Play Store Apps
+https://www.kaggle.com/lava18/google-play-store-apps
+
+Student Alcohol Consumption
+https://www.kaggle.com/uciml/student-alcohol-consumption/version/2
+
+Trending YouTube Video Statistics
+https://www.kaggle.com/datasnaek/youtube-new
+
+TV Shows and Movies listed on Netflix
+https://www.kaggle.com/shivamb/netflix-shows
+
+Suicide Rates Overview 1985 to 2016
+https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016

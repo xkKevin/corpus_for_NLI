@@ -1,0 +1,26 @@
+workerjob表：
+count（检测），isPayed
+
+validationstatus
+workerId, hitId, status
+
+Rewrite Sentences
+Compare Sentences by Semantics
+
+Thank you! No more jobs currently.
+
+
+https://blog.csdn.net/clheang/article/details/45767103
+https://www.cnblogs.com/bentuwuying/p/6683832.html
+
+
+Invalid submission!\nError Type: 1
+Please pay more efforts in writing sentences.\nError Type: 2
+Please do not copy & paste words or phrases.\nError Type: 3
+Please do not copy & paste words or phrases.\nError Type: 4
+Please write sentences in English.\nError Type: 5
+Please pay more efforts in writing sentences.\nError Type: 6
+This sentence may have different meaning with the original one. Please rewrite.\nError Type: 7
+Duplicate sentence. Please re-write the sentence.\nError Type: 8
+9，已经达到了MAX_REWRITE_NUM
+Invalid Sentence! Please rewrite it again.\nError Type: 10
